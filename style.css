@@ -1,0 +1,17 @@
+img {
+    width: 68px;
+    height: 68px;
+    margin-right: 20px;
+}
+
+table {
+    width: 100%;
+}
+
+p {
+    font-size: 16px
+}
+
+p.p-head {
+    font-size: 26px
+}
